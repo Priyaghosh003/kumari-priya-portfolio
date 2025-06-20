@@ -116,9 +116,6 @@
   </nav>
 
   <header id="home">
-    <div class="graphics">
-      <img src="https://via.placeholder.com/800x200/1abc9c/ffffff?text=Welcome+to+My+Portfolio" alt="Banner Graphic">
-    </div>
     <h1>Kumari Priya</h1>
     <p>Detail-oriented and motivated BCA student with experience in Python, robotics simulation, and software development.</p>
     <a class="btn" href="Kumari_Priya_Resume.pdf" download>Download Resume</a>
@@ -144,9 +141,6 @@
 
   <section id="projects">
     <h2>Projects</h2>
-    <div class="graphics">
-      <img src="https://via.placeholder.com/800x400/222222/1abc9c?text=Crime+Reporting+System+Preview" alt="Project Screenshot">
-    </div>
     <h3>Crime Reporting System</h3>
     <ul>
       <li>Developed a desktop application using Python, Tkinter, and SQLite.</li>
