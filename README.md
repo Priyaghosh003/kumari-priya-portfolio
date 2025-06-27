@@ -171,7 +171,7 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:iampriya123456789@gmail.com">iampriya123456789@gmail.com</a></p>
+    <p>Email: <a href="mailto:kripriya24572@gmail.com">iampriya123456789@gmail.com</a></p>
     <p>LinkedIn: <a href="https://linkedin.com/in/kri-priya">linkedin.com/in/kri-priya</a></p>
     <p>GitHub: <a href="https://github.com/Priyaghosh003">github.com/Priyaghosh003</a></p>
     <p>Phone: 98877 95914</p>
